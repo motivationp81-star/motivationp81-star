@@ -9,6 +9,8 @@ AI builder from India, working at the intersection of **AI, language and music**
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+![Profile views](https://komarev.com/ghpvc/?username=motivationp81-star&color=blueviolet&style=flat-square)
+
 ## 🚀 What I'm building
 
 **[Mimu](https://github.com/motivationp81-star/mimu)** — my personal AI assistant, created in Google AI Studio. Mimu is a smart **Hinglish** creative AI: it chats naturally in Hinglish (Hindi + English), helps with creative ideas, and handles smart everyday tasks. Built with TypeScript.
