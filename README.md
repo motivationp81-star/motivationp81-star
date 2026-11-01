@@ -63,3 +63,5 @@ I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 
 Right here on GitHub — open an issue on the Mimu repo or connect with the label on Instagram at **@rsworldwidemusic**.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40rsworldwidemusic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rsworldwidemusic)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3b4a,100:0e7a8a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff" alt="Thanks for visiting" width="100%" />
