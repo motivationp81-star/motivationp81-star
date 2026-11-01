@@ -36,6 +36,8 @@ More projects:
 [![Thumbnail Studio](https://img.shields.io/badge/Thumbnail%20Studio-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/thumbnail-studio/)
 [![PFP Maker](https://img.shields.io/badge/PFP%20Maker-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/pfp-maker/)
 
+<img src="eq.svg" alt="Music equalizer" width="100%" />
+
 ## 🎵 RS WORLDWIDE MUSIC
 
 I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 9 YouTube channels and an Instagram label page, publishing regional (Rajasthani/Haryanvi) music. I use AI-assisted workflows end-to-end for publishing, distribution and audience engagement.
