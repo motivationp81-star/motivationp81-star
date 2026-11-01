@@ -25,9 +25,9 @@ I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 
 
 ## 📊 GitHub stats
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=motivationp81-star&show_icons=true&theme=tokyonight)
+![Pradeep's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=motivationp81-star&show_icons=true&theme=tokyonight)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motivationp81-star&layout=compact&theme=tokyonight)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=motivationp81-star&layout=compact&theme=tokyonight)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=motivationp81-star&theme=tokyonight)
 
