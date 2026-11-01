@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Pradeep Meena — AI Builder from India, Creator of Mimu, Founder of RS WORLDWIDE MUSIC" width="100%" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Builder+from+India;Creator+of+Mimu+%E2%80%94+Hinglish+AI;Founder%2C+RS+WORLDWIDE+MUSIC;Building+with+AI+agents" alt="Typing intro" />
 </p>
