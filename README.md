@@ -23,7 +23,7 @@ AI builder from India, working at the intersection of **AI, language and music**
 
 More projects:
 
-- **[Hinglish Creator Toolkit](https://github.com/motivationp81-star/hinglish-creator-toolkit)** — small TypeScript utilities for creators: a YouTube title checker, a Hinglish caption maker and a hashtag suggester.
+- **[Creator Toolkit](https://github.com/motivationp81-star/creator-toolkit)** — small TypeScript utilities for video creators: a YouTube title checker, a caption maker and a hashtag suggester.
 - **[ClipKaro](https://github.com/motivationp81-star/clipkaro-video-trimmer)** — trim videos right in the browser and grab a frame as a thumbnail. [Live demo](https://motivationp81-star.github.io/clipkaro-video-trimmer/)
 - **[Thumbnail Studio](https://github.com/motivationp81-star/thumbnail-studio)** — design video thumbnails on a canvas and export a 1280×720 PNG. [Live demo](https://motivationp81-star.github.io/thumbnail-studio/)
 
