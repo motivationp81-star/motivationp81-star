@@ -14,6 +14,9 @@ AI builder from India, working at the intersection of **AI, language and music**
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ![Profile views](https://komarev.com/ghpvc/?username=motivationp81-star&color=blueviolet&style=flat-square)
 
@@ -22,6 +25,8 @@ AI builder from India, working at the intersection of **AI, language and music**
 ## 🚀 What I'm building
 
 **[Mimu](https://github.com/motivationp81-star/mimu)** — my personal AI assistant, created in Google AI Studio. Mimu is a smart **Hinglish** creative AI: it chats naturally in Hinglish (Hindi + English), helps with creative ideas, and handles smart everyday tasks. Built with TypeScript.
+
+[![Mimu repo card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=motivationp81-star&repo=mimu&theme=tokyonight)](https://github.com/motivationp81-star/mimu)
 
 More projects:
 
@@ -54,6 +59,10 @@ I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 
 
 ![GitHub streak](https://streak-stats.demolab.com?user=motivationp81-star&theme=tokyonight)
 
+## 📈 My journey at a glance
+
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=motivationp81-star&theme=tokyonight)
+
 ## 🧭 What I'm exploring
 
 - AI agents and AI coding tools (including OpenAI Codex)
@@ -67,6 +76,10 @@ I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 
 ## 🐍 Watch the snake eat my contributions
 
 ![Snake animation](https://raw.githubusercontent.com/motivationp81-star/motivationp81-star/output/github-contribution-grid-snake.svg)
+
+## 💭 Words I code by
+
+![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 📫 Reach me
 
