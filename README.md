@@ -30,6 +30,7 @@ More projects:
 - **[Thumbnail Studio](https://github.com/motivationp81-star/thumbnail-studio)** — design video thumbnails on a canvas and export a 1280×720 PNG. [Live demo](https://motivationp81-star.github.io/thumbnail-studio/)
 - **[PFP Maker](https://github.com/motivationp81-star/pfp-maker)** — make a cute profile picture in the browser: pick a character, colours and an accessory, download the PNG. [Live demo](https://motivationp81-star.github.io/pfp-maker/)
 - **[QR Code Generator](https://github.com/motivationp81-star/qr-code-generator)** — free QR codes in the browser: type a link or text, pick a size and colours, download the PNG. [Live demo](https://motivationp81-star.github.io/qr-code-generator/)
+- **[YT Thumbnail Downloader](https://github.com/motivationp81-star/yt-thumbnail-downloader)** — paste a YouTube link and download its thumbnail in HD and other sizes. [Live demo](https://motivationp81-star.github.io/yt-thumbnail-downloader/)
 
 **Try my tools live:**
 
@@ -37,6 +38,7 @@ More projects:
 [![Thumbnail Studio](https://img.shields.io/badge/Thumbnail%20Studio-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/thumbnail-studio/)
 [![PFP Maker](https://img.shields.io/badge/PFP%20Maker-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/pfp-maker/)
 [![QR Code Generator](https://img.shields.io/badge/QR%20Code%20Generator-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/qr-code-generator/)
+[![YT Thumbnail Downloader](https://img.shields.io/badge/YT%20Thumbnail%20Downloader-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/yt-thumbnail-downloader/)
 
 <img src="eq.svg" alt="Music equalizer" width="100%" />
 
@@ -68,8 +70,9 @@ I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 
 
 ## 📫 Reach me
 
-Right here on GitHub — open an issue on the Mimu repo or connect with the label on Instagram at **@rsworldwidemusic**.
+Right here on GitHub — open an issue on the Mimu repo or connect with the label on Instagram at **@rsworldwidemusic** — or drop me an email.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40rsworldwidemusic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rsworldwidemusic)
+[![Email](https://img.shields.io/badge/Email-motivationp81%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:motivationp81@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3b4a,100:0e7a8a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff" alt="Thanks for visiting" width="100%" />
