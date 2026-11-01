@@ -29,12 +29,14 @@ More projects:
 - **[ClipKaro](https://github.com/motivationp81-star/clipkaro-video-trimmer)** — trim videos right in the browser and grab a frame as a thumbnail. [Live demo](https://motivationp81-star.github.io/clipkaro-video-trimmer/)
 - **[Thumbnail Studio](https://github.com/motivationp81-star/thumbnail-studio)** — design video thumbnails on a canvas and export a 1280×720 PNG. [Live demo](https://motivationp81-star.github.io/thumbnail-studio/)
 - **[PFP Maker](https://github.com/motivationp81-star/pfp-maker)** — make a cute profile picture in the browser: pick a character, colours and an accessory, download the PNG. [Live demo](https://motivationp81-star.github.io/pfp-maker/)
+- **[QR Code Generator](https://github.com/motivationp81-star/qr-code-generator)** — free QR codes in the browser: type a link or text, pick a size and colours, download the PNG. [Live demo](https://motivationp81-star.github.io/qr-code-generator/)
 
 **Try my tools live:**
 
 [![ClipKaro](https://img.shields.io/badge/ClipKaro-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/clipkaro-video-trimmer/)
 [![Thumbnail Studio](https://img.shields.io/badge/Thumbnail%20Studio-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/thumbnail-studio/)
 [![PFP Maker](https://img.shields.io/badge/PFP%20Maker-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/pfp-maker/)
+[![QR Code Generator](https://img.shields.io/badge/QR%20Code%20Generator-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/qr-code-generator/)
 
 <img src="eq.svg" alt="Music equalizer" width="100%" />
 
