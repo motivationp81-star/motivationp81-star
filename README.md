@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Builder+from+India;Creator+of+Mimu+%E2%80%94+Hinglish+AI;Founder%2C+RS+WORLDWIDE+MUSIC;Building+with+AI+agents" alt="Typing intro" />
+</p>
+
 # Hi, I'm Pradeep Meena 👋
 
 AI builder from India, working at the intersection of **AI, language and music**.
@@ -41,6 +45,12 @@ I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 
 - Hinglish and regional-language AI experiences
 - Practical AI workflows for creators and small labels
 
+## 🐍 Watch the snake eat my contributions
+
+![Snake animation](https://raw.githubusercontent.com/motivationp81-star/motivationp81-star/output/github-contribution-grid-snake.svg)
+
 ## 📫 Reach me
 
 Right here on GitHub — open an issue on the Mimu repo or connect with the label on Instagram at **@rsworldwidemusic**.
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40rsworldwidemusic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rsworldwidemusic)
