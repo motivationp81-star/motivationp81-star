@@ -16,5 +16,14 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_activity: yes
           plugin_achievements: yes
+          plugin_isocalendar: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_habits: yes
+          plugin_followup: yes
+          plugin_stars: yes
+          plugin_lines: yes
+          plugin_people: yes
