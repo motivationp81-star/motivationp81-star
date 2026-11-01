@@ -1,63 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b3b4a"/>
-      <stop offset="1" stop-color="#0e7a8a"/>
+    <linearGradient id="strip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#3fb950"/>
+      <stop offset="1" stop-color="#d2a8ff"/>
     </linearGradient>
   </defs>
-  <style>
-    .wave { transform-origin: 356px 292px; animation: wave 1.6s ease-in-out infinite; }
-    @keyframes wave { 0%,100% { transform: rotate(0deg);} 50% { transform: rotate(-26deg);} }
-    .eyes { transform-origin: 240px 208px; animation: blink 4.4s ease-in-out infinite; }
-    @keyframes blink { 0%, 91%, 100% { transform: scaleY(1);} 94% { transform: scaleY(0.08);} 97% { transform: scaleY(1);} }
-    .note { animation: floatUp 3.6s ease-in infinite; opacity: 0; }
-    .n2 { animation-delay: 1.2s; } .n3 { animation-delay: 2.4s; }
-    @keyframes floatUp { 0% { transform: translateY(0); opacity: 0;} 25% { opacity: 0.95;} 100% { transform: translateY(-90px); opacity: 0;} }
-    .code { animation: pulse 1.8s ease-in-out infinite; }
-    .c2 { animation-delay: 0.4s; } .c3 { animation-delay: 0.8s; }
-    @keyframes pulse { 0%,100% { opacity: 0.35;} 50% { opacity: 1;} }
-    .halo { animation: drift 7s ease-in-out infinite; }
-    @keyframes drift { 0%,100% { transform: translateX(0);} 50% { transform: translateX(-24px);} }
-  </style>
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <circle class="halo" cx="1020" cy="160" r="150" fill="#ffffff" opacity="0.14"/>
-  <text x="64" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" fill="#ffffff">Pradeep Meena</text>
-  <text x="66" y="182" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#bfeef5">AI Builder from India — Creator of Mimu</text>
-  <text x="66" y="228" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#7ee0d2">Founder, RS WORLDWIDE MUSIC</text>
-  <g transform="translate(872,18) scale(0.59)">
-    <path d="M240 84 A172 172 0 0 1 412 256 L412 480 L68 480 L68 256 A172 172 0 0 1 240 84 Z" fill="#22272e"/>
+  <rect width="1200" height="320" fill="#0d1117"/>
+  <rect y="312" width="1200" height="8" fill="url(#strip)"/>
+  <text x="72" y="104" font-family="Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="7" fill="#58a6ff">AI BUILDER — INDIA</text>
+  <text x="70" y="182" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700" fill="#f0f6fc">Pradeep Meena</text>
+  <text x="72" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#9aa4b0">Creator of Mimu  ·  Founder, RS WORLDWIDE MUSIC</text>
+  <g transform="translate(928,44) scale(0.48)">
     <path d="M140 148 L118 62 Q116 50 128 56 L196 92 Q206 98 200 110 L168 152 Q160 162 148 158 Z" fill="#f5a83d"/>
     <path d="M340 148 L362 62 Q364 50 352 56 L284 92 Q274 98 280 110 L312 152 Q320 162 332 158 Z" fill="#f5a83d"/>
     <path d="M146 132 L134 84 L178 106 Z" fill="#ffb3c1"/>
     <path d="M334 132 L346 84 L302 106 Z" fill="#ffb3c1"/>
     <circle cx="240" cy="215" r="118" fill="#f7b955"/>
-    <g class="eyes">
-      <circle cx="192" cy="208" r="12" fill="#2b2b2b"/>
-      <circle cx="288" cy="208" r="12" fill="#2b2b2b"/>
-      <circle cx="196" cy="203" r="4" fill="#ffffff"/>
-      <circle cx="292" cy="203" r="4" fill="#ffffff"/>
-    </g>
+    <circle cx="192" cy="208" r="12" fill="#2b2b2b"/>
+    <circle cx="288" cy="208" r="12" fill="#2b2b2b"/>
+    <circle cx="196" cy="203" r="4" fill="#ffffff"/>
+    <circle cx="292" cy="203" r="4" fill="#ffffff"/>
     <path d="M228 244 Q240 236 252 244 Q240 256 228 244 Z" fill="#e2607a"/>
     <path d="M240 250 q0 10 -11 12 M240 250 q0 10 11 12" stroke="#2b2b2b" stroke-width="4" fill="none" stroke-linecap="round"/>
     <ellipse cx="152" cy="252" rx="16" ry="10" fill="#ffb3c1"/>
     <ellipse cx="328" cy="252" rx="16" ry="10" fill="#ffb3c1"/>
-    <g class="wave">
-      <rect x="338" y="252" width="34" height="86" rx="17" fill="#22272e"/>
-      <circle cx="355" cy="240" r="24" fill="#f7b955"/>
-      <circle cx="343" cy="224" r="6" fill="#e2607a"/>
-      <circle cx="355" cy="218" r="6" fill="#e2607a"/>
-      <circle cx="367" cy="224" r="6" fill="#e2607a"/>
-    </g>
-    <rect x="150" y="330" width="180" height="118" rx="12" fill="#39424f"/>
-    <rect x="162" y="342" width="156" height="94" rx="8" fill="#0e1116"/>
-    <g stroke-width="7" stroke-linecap="round">
-      <line class="code" x1="176" y1="362" x2="238" y2="362" stroke="#3fb950"/>
-      <line class="code c2" x1="190" y1="384" x2="272" y2="384" stroke="#58a6ff"/>
-      <line class="code c3" x1="176" y1="406" x2="220" y2="406" stroke="#d2a8ff"/>
-    </g>
-    <rect x="132" y="448" width="216" height="14" rx="7" fill="#57606a"/>
-    <text class="note" x="52" y="330" font-size="44" fill="#7ee0d2">&#9835;</text>
-    <text class="note n2" x="404" y="356" font-size="36" fill="#bfeef5">&#9834;</text>
-    <text class="note n3" x="66" y="392" font-size="30" fill="#ffffff">&#9835;</text>
   </g>
 </svg>
