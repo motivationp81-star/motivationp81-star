@@ -28,6 +28,13 @@ More projects:
 - **[Creator Toolkit](https://github.com/motivationp81-star/creator-toolkit)** — small TypeScript utilities for video creators: a YouTube title checker, a caption maker and a hashtag suggester.
 - **[ClipKaro](https://github.com/motivationp81-star/clipkaro-video-trimmer)** — trim videos right in the browser and grab a frame as a thumbnail. [Live demo](https://motivationp81-star.github.io/clipkaro-video-trimmer/)
 - **[Thumbnail Studio](https://github.com/motivationp81-star/thumbnail-studio)** — design video thumbnails on a canvas and export a 1280×720 PNG. [Live demo](https://motivationp81-star.github.io/thumbnail-studio/)
+- **[PFP Maker](https://github.com/motivationp81-star/pfp-maker)** — make a cute profile picture in the browser: pick a character, colours and an accessory, download the PNG. [Live demo](https://motivationp81-star.github.io/pfp-maker/)
+
+**Try my tools live:**
+
+[![ClipKaro](https://img.shields.io/badge/ClipKaro-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/clipkaro-video-trimmer/)
+[![Thumbnail Studio](https://img.shields.io/badge/Thumbnail%20Studio-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/thumbnail-studio/)
+[![PFP Maker](https://img.shields.io/badge/PFP%20Maker-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/pfp-maker/)
 
 ## 🎵 RS WORLDWIDE MUSIC
 
