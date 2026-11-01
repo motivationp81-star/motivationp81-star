@@ -56,6 +56,10 @@ I run **RS WORLDWIDE MUSIC**, a record label and music distribution network — 
 - Hinglish and regional-language AI experiences
 - Practical AI workflows for creators and small labels
 
+## 🏙️ My 3D contribution city
+
+![3D contribution graph](./profile-3d-contrib/profile-gitblock.svg)
+
 ## 🐍 Watch the snake eat my contributions
 
 ![Snake animation](https://raw.githubusercontent.com/motivationp81-star/motivationp81-star/output/github-contribution-grid-snake.svg)
