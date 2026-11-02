@@ -37,6 +37,7 @@ More projects:
 - **[QR Code Generator](https://github.com/motivationp81-star/qr-code-generator)** — free QR codes in the browser: type a link or text, pick a size and colours, download the PNG. [Live demo](https://motivationp81-star.github.io/qr-code-generator/)
 - **[YT Thumbnail Downloader](https://github.com/motivationp81-star/yt-thumbnail-downloader)** — paste a YouTube link and download its thumbnail in HD and other sizes. [Live demo](https://motivationp81-star.github.io/yt-thumbnail-downloader/)
 - **[Thumbnail Previewer](https://github.com/motivationp81-star/thumbnail-previewer)** — preview your thumbnail on YouTube home, search and mobile before you publish. [Live demo](https://motivationp81-star.github.io/thumbnail-previewer/)
+- **[BeatCut Studio](https://github.com/motivationp81-star/beatcut-studio)** — edit video on the beat of your song: funk beat-cuts, lyric videos, photo collages and song visualizers in the browser. [Live demo](https://motivationp81-star.github.io/beatcut-studio/)
 
 **Try my tools live:**
 
@@ -46,6 +47,7 @@ More projects:
 [![QR Code Generator](https://img.shields.io/badge/QR%20Code%20Generator-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/qr-code-generator/)
 [![YT Thumbnail Downloader](https://img.shields.io/badge/YT%20Thumbnail%20Downloader-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/yt-thumbnail-downloader/)
 [![Thumbnail Previewer](https://img.shields.io/badge/Thumbnail%20Previewer-Live%20Demo-238636?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/thumbnail-previewer/)
+[![BeatCut Studio](https://img.shields.io/badge/BeatCut%20Studio-Live%20Demo-e0245e?style=flat-square&logo=github&logoColor=white)](https://motivationp81-star.github.io/beatcut-studio/)
 
 <img src="eq.svg" alt="Music equalizer" width="100%" />
 
