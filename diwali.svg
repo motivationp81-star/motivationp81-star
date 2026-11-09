@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b0635"/>
+      <stop offset="0.55" stop-color="#4a0e2e"/>
+      <stop offset="1" stop-color="#7a1e0d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffcf5c" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#ffcf5c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ff7b00"/>
+      <stop offset="0.6" stop-color="#ffb703"/>
+      <stop offset="1" stop-color="#ffe66d"/>
+    </linearGradient>
+    <linearGradient id="bowl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c1440e"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .flicker { transform-origin: center bottom; animation: fl 1.5s ease-in-out infinite; }
+    .f2 { animation-delay: 0.35s; } .f3 { animation-delay: 0.7s; } .f4 { animation-delay: 1.05s; } .f5 { animation-delay: 0.5s; }
+    @keyframes fl { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(1.14); } }
+    .twinkle { animation: tw 2.2s ease-in-out infinite; }
+    .t2 { animation-delay: 0.6s; } .t3 { animation-delay: 1.2s; } .t4 { animation-delay: 1.7s; }
+    @keyframes tw { 0%,100% { opacity: 0.25; } 50% { opacity: 1; } }
+  </style>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <circle cx="600" cy="170" r="230" fill="url(#glow)" opacity="0.35"/>
+  <circle cx="90" cy="300" r="120" fill="url(#glow)" opacity="0.22"/>
+  <circle cx="1110" cy="300" r="120" fill="url(#glow)" opacity="0.22"/>
+
+  <!-- corner rangoli rings -->
+  <g fill="none" stroke="#ffd166" opacity="0.35">
+    <circle cx="60" cy="60" r="46" stroke-width="2"/>
+    <circle cx="60" cy="60" r="32" stroke-width="2" stroke-dasharray="4 6"/>
+    <circle cx="60" cy="60" r="18" stroke-width="2"/>
+    <circle cx="1140" cy="60" r="46" stroke-width="2"/>
+    <circle cx="1140" cy="60" r="32" stroke-width="2" stroke-dasharray="4 6"/>
+    <circle cx="1140" cy="60" r="18" stroke-width="2"/>
+  </g>
+
+  <!-- string lights -->
+  <g>
+    <path d="M0 18 Q 200 74 400 22 Q 600 78 800 22 Q 1000 74 1200 18" fill="none" stroke="#ffd166" stroke-width="2" opacity="0.55"/>
+    <g>
+      <circle class="twinkle" cx="100" cy="42" r="7" fill="#ff5d8f"/>
+      <circle class="twinkle t2" cx="200" cy="50" r="7" fill="#ffd166"/>
+      <circle class="twinkle t3" cx="300" cy="40" r="7" fill="#4cc9f0"/>
+      <circle class="twinkle t4" cx="400" cy="28" r="7" fill="#80ed99"/>
+      <circle class="twinkle t2" cx="500" cy="44" r="7" fill="#ffd166"/>
+      <circle class="twinkle" cx="600" cy="52" r="7" fill="#ff5d8f"/>
+      <circle class="twinkle t3" cx="700" cy="44" r="7" fill="#4cc9f0"/>
+      <circle class="twinkle t4" cx="800" cy="28" r="7" fill="#ffd166"/>
+      <circle class="twinkle t2" cx="900" cy="40" r="7" fill="#80ed99"/>
+      <circle class="twinkle" cx="1000" cy="48" r="7" fill="#ff5d8f"/>
+      <circle class="twinkle t3" cx="1100" cy="38" r="7" fill="#ffd166"/>
+    </g>
+  </g>
+
+  <!-- sparkles -->
+  <g fill="#ffe66d">
+    <path class="twinkle" d="M170 130 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5 z"/>
+    <path class="twinkle t3" d="M1030 130 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5 z"/>
+    <path class="twinkle t2" d="M250 210 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z"/>
+    <path class="twinkle t4" d="M950 210 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z"/>
+  </g>
+
+  <text x="600" y="142" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="6" fill="#ffd166">HAPPY DIWALI</text>
+  <text x="600" y="186" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#fff3d6">&#10022; Festival of Lights &#183; 8 November 2026 &#10022;</text>
+  <text x="600" y="224" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#ffd9a0">Wishing you light, music and new beginnings</text>
+
+  <!-- diyas -->
+  <g>
+    <!-- diya template repeated by hand: bowl + flame -->
+    <g transform="translate(120,262)">
+      <ellipse cx="0" cy="-26" rx="42" ry="34" fill="url(#glow)"/>
+      <path class="flicker f2" d="M0 -52 C 12 -30 14 -18 0 -8 C -14 -18 -12 -30 0 -52 Z" fill="url(#flame)"/>
+      <ellipse cx="0" cy="-6" rx="52" ry="10" fill="#e36414"/>
+      <path d="M-52 -6 A 52 30 0 0 0 52 -6 Z" fill="url(#bowl)"/>
+      <ellipse cx="0" cy="24" rx="30" ry="4" fill="#ffd166" opacity="0.35"/>
+    </g>
+    <g transform="translate(330,278) scale(0.82)">
+      <ellipse cx="0" cy="-26" rx="42" ry="34" fill="url(#glow)"/>
+      <path class="flicker f4" d="M0 -52 C 12 -30 14 -18 0 -8 C -14 -18 -12 -30 0 -52 Z" fill="url(#flame)"/>
+      <ellipse cx="0" cy="-6" rx="52" ry="10" fill="#e36414"/>
+      <path d="M-52 -6 A 52 30 0 0 0 52 -6 Z" fill="url(#bowl)"/>
+    </g>
+    <g transform="translate(600,292) scale(1.05)">
+      <ellipse cx="0" cy="-26" rx="46" ry="38" fill="url(#glow)"/>
+      <path class="flicker" d="M0 -56 C 13 -32 15 -19 0 -8 C -15 -19 -13 -32 0 -56 Z" fill="url(#flame)"/>
+      <circle cx="0" cy="-22" r="5" fill="#fff7cc"/>
+      <ellipse cx="0" cy="-6" rx="52" ry="10" fill="#e36414"/>
+      <path d="M-52 -6 A 52 30 0 0 0 52 -6 Z" fill="url(#bowl)"/>
+      <ellipse cx="0" cy="26" rx="34" ry="4" fill="#ffd166" opacity="0.4"/>
+    </g>
+    <g transform="translate(870,278) scale(0.82)">
+      <ellipse cx="0" cy="-26" rx="42" ry="34" fill="url(#glow)"/>
+      <path class="flicker f3" d="M0 -52 C 12 -30 14 -18 0 -8 C -14 -18 -12 -30 0 -52 Z" fill="url(#flame)"/>
+      <ellipse cx="0" cy="-6" rx="52" ry="10" fill="#e36414"/>
+      <path d="M-52 -6 A 52 30 0 0 0 52 -6 Z" fill="url(#bowl)"/>
+    </g>
+    <g transform="translate(1080,262)">
+      <ellipse cx="0" cy="-26" rx="42" ry="34" fill="url(#glow)"/>
+      <path class="flicker f5" d="M0 -52 C 12 -30 14 -18 0 -8 C -14 -18 -12 -30 0 -52 Z" fill="url(#flame)"/>
+      <ellipse cx="0" cy="-6" rx="52" ry="10" fill="#e36414"/>
+      <path d="M-52 -6 A 52 30 0 0 0 52 -6 Z" fill="url(#bowl)"/>
+      <ellipse cx="0" cy="24" rx="30" ry="4" fill="#ffd166" opacity="0.35"/>
+    </g>
+  </g>
+</svg>

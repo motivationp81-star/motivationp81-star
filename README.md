@@ -1,5 +1,13 @@
 <img src="banner.svg" alt="Pradeep Meena — AI Builder from India, Creator of Mimu, Founder of RS WORLDWIDE MUSIC" width="100%" />
 
+<img src="diwali.svg" alt="Happy Diwali — Festival of Lights, 8 November 2026" width="100%" />
+
+<p align="center">
+  <b>🪔 Happy Diwali! 🪔</b><br/>
+  May this Festival of Lights bring new code, new music and new beginnings.<br/>
+  Thank you for visiting my corner of GitHub — wishing you and your family light and happiness.
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Builder+from+India;Creator+of+Mimu+%E2%80%94+Hinglish+AI;Founder%2C+RS+WORLDWIDE+MUSIC;Building+with+AI+agents" alt="Typing intro" />
 </p>
